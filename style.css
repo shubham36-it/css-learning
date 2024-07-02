@@ -1,0 +1,8 @@
+p{
+    color: green !important;/*it restict the overwrite condition*/
+}.para-sf{
+    color: orange;
+}
+#blackpara{
+    color: aqua;
+}
